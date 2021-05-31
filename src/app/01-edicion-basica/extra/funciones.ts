@@ -9,6 +9,15 @@ export function saludar2( nombre: string ) {
     return `Yo no hago nada!!!`;
 }
 
+function darSu() {
+    let obj = {
+        nombre: "cis",
+        saludar: () => {
+            const nomb = 'pedro';
+        }
+    }
+}
+
 export function saludar3( nombre: string ) {
     return `Yo no hago nada!!!`;
 }

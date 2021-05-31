@@ -11,7 +11,9 @@
 */
 
 
-
+function holaMundo() {
+    return "Hola mundo a todos";
+}
 
 
 
